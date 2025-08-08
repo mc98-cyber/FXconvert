@@ -1,5 +1,5 @@
 [README.txt](https://github.com/user-attachments/files/21665023/README.txt)
-FXchange – Currency Converter 🇪🇺➡️🌍 (Version 1.0.0)
+FXchange – Currency Converter 🇪🇺 (Version 1.0.0)
 
 FXchange is a simple Python-based currency converter. It allows users to convert a given amount in Euro (EUR) into three other currencies: US Dollar (USD), Swedish Krona (SEK), or Swiss Franc (CHF). The program uses live exchange rate data provided by the public Frankfurter API (https://www.frankfurter.app/). It runs directly in the terminal/console and is intended as a lightweight and beginner-friendly tool.
 
